@@ -1,5 +1,5 @@
 
-```markdown
+
 # Nexus Events
 
 **Nexus Events** is a full-stack web application for event management, utilizing Spring Boot for the backend and React for the frontend.
